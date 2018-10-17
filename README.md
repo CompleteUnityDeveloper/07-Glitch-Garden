@@ -24,3 +24,13 @@ Here are the lectures of the course for this section.
 
 **After watching (learning outcomes)…**
 Ready and raring to start this section.
+
+
+### 2 Glitch Garden Game Design ###
+
+**In this video (objectives)…**
+1. Discussion of game overview screen and core features.
+2. Demo of the game prototype.
+
+**After watching (learning outcomes)…**
+Super clear on the game we are making.
