@@ -34,3 +34,13 @@ Ready and raring to start this section.
 
 **After watching (learning outcomes)…**
 Super clear on the game we are making.
+
+### 3 Make A Splash Screen ###
+
+**In this video (objectives)…**
+1. Get assets from the Glitch game site.
+2. Set up a Splash Screen and Start Screen.
+3. Implement a level loader that waits then loads the start screen.
+
+**After watching (learning outcomes)…**
+Create a splash screen with delayed level loading.
