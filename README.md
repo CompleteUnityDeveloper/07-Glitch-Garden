@@ -8,39 +8,61 @@ This is the [Complete Unity Developer](http://gdev.tv/cudgithub) - one of the mo
 You're welcome to download, fork or do whatever else legal with all the files! The real value is in our huge, high-quality online tutorials that accompany this repo. You can check out the course here: [Complete Unity Developer](http://gdev.tv/cudgithub)
 
 ## In This Section
+
 In this section we create a lane-based Tower Defense game modelled on the iconic Plants Vs Zombies game. We cover a lot of Unity's animation system, a resource management mechanic, specialised enemy types and more. This repo is part of our Complete Unity C# Developer 2D course (http://gdev.tv/cudgithub). (Ref: GL_CUD)
 
 ## How To Build / Compile
 
 ## Lecture List
+
 Here are the lectures of the course for this section.
 
 
 ### 1 Welcome To Glitch Garden ###
 
 **In this video (objectives)…**
+
 1. Overview of this section.
 2. Demo of the game prototype.
 
 **After watching (learning outcomes)…**
+
 Ready and raring to start this section.
 
 
 ### 2 Glitch Garden Game Design ###
 
 **In this video (objectives)…**
+
 1. Discussion of game overview screen and core features.
 2. Demo of the game prototype.
 
 **After watching (learning outcomes)…**
+
 Super clear on the game we are making.
 
 ### 3 Make A Splash Screen ###
 
 **In this video (objectives)…**
+
 1. Get assets from the Glitch game site.
 2. Set up a Splash Screen and Start Screen.
 3. Implement a level loader that waits then loads the start screen.
 
+
 **After watching (learning outcomes)…**
+
 Create a splash screen with delayed level loading.
+
+
+### 4 Scaling & Aspect Ratios ###
+
+**In this video (objectives)…**
+
+1. Set up our safe zone for a variety of aspect ratios
+2. Anchor our text to ensure that no matter what aspect ratio is used, our text is still on screen.
+
+
+**After watching (learning outcomes)…**
+
+Set up a mobile-friendly game that response gracefully to different shape devices.
