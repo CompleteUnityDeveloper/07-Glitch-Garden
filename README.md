@@ -20,49 +20,64 @@ Here are the lectures of the course for this section.
 
 ### 1 Welcome To Glitch Garden ###
 
-**In this video (objectives)…**
+**In this video (objectives)...**
 
 1. Overview of this section.
 2. Demo of the game prototype.
 
-**After watching (learning outcomes)…**
+**After watching (learning outcomes)...**
 
 Ready and raring to start this section.
 
 
 ### 2 Glitch Garden Game Design ###
 
-**In this video (objectives)…**
+**In this video (objectives)...**
 
 1. Discussion of game overview screen and core features.
 2. Demo of the game prototype.
 
-**After watching (learning outcomes)…**
+
+**After watching (learning outcomes)...**
 
 Super clear on the game we are making.
 
 ### 3 Make A Splash Screen ###
 
-**In this video (objectives)…**
+**In this video (objectives)...**
 
 1. Get assets from the Glitch game site.
 2. Set up a Splash Screen and Start Screen.
 3. Implement a level loader that waits then loads the start screen.
 
 
-**After watching (learning outcomes)…**
+**After watching (learning outcomes)...**
 
 Create a splash screen with delayed level loading.
 
 
 ### 4 Scaling & Aspect Ratios ###
 
-**In this video (objectives)…**
+**In this video (objectives)...**
 
 1. Set up our safe zone for a variety of aspect ratios
 2. Anchor our text to ensure that no matter what aspect ratio is used, our text is still on screen.
 
 
-**After watching (learning outcomes)…**
+**After watching (learning outcomes)...**
 
 Set up a mobile-friendly game that response gracefully to different shape devices.
+
+
+### 5 Set Up Background Playspace ###
+
+**In this video (objectives)...**
+
+1. Calculate the size of our safe zone.
+2. Create level scene.
+3. Calculate size of our grids.
+
+
+**After watching (learning outcomes)...**
+
+Prep our playspace so we are ready to create background art.
