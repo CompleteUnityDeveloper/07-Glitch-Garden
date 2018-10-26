@@ -81,3 +81,17 @@ Set up a mobile-friendly game that response gracefully to different shape device
 **After watching (learning outcomes)...**
 
 Prep our playspace so we are ready to create background art.
+
+
+### 6 World Space Canvas Mode ###
+
+**In this video (objectives)...**
+
+1. Change our canvas to world space.
+2. Calculate size of canvas and character.
+3. Add nicer looking background and tree art and play with order in layer to get depth effect.
+
+
+**After watching (learning outcomes)...**
+
+Use World space canvas mode to match your UI size with world units.
