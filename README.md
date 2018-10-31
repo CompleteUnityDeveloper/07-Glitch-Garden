@@ -95,3 +95,16 @@ Prep our playspace so we are ready to create background art.
 **After watching (learning outcomes)...**
 
 Use World space canvas mode to match your UI size with world units.
+
+
+### 7 Intro To Animation ###
+
+**In this video (objectives)...**
+
+1. Discuss sprite sheet versus bone based animation.
+2. Download assets, import sprite sheet and slice up sprite sheet.
+
+
+**After watching (learning outcomes)...**
+
+Able to slice up sprite sheets to use for animation.
