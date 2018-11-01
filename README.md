@@ -108,3 +108,17 @@ Use World space canvas mode to match your UI size with world units.
 **After watching (learning outcomes)...**
 
 Able to slice up sprite sheets to use for animation.
+
+
+### 8 Animator Controller & Animation ###
+
+**In this video (objectives)...**
+
+1. Create a new Game Object with sprite renderer and Animator Component.
+2. Create an animator controller.
+3. Create a new walk animation and hook everything up.
+
+
+**After watching (learning outcomes)...**
+
+Able to render an animation in game using Animator Controller and animations.
