@@ -136,3 +136,16 @@ Able to render an animation in game using Animator Controller and animations.
 **After watching (learning outcomes)...**
 
 Transition from one animation state to another once the first animation is finished playing.
+
+
+### 10 Intro To Keyframe Animation ###
+
+**In this video (objectives)...**
+
+1. Create a new game object with 2 independently moving parts.
+2. Use keyframe animation to animation transform, scale, rotation and colour.
+
+
+**After watching (learning outcomes)...**
+
+Animate an object using Keyframe animation.
