@@ -122,3 +122,17 @@ Able to slice up sprite sheets to use for animation.
 **After watching (learning outcomes)...**
 
 Able to render an animation in game using Animator Controller and animations.
+
+
+### 9 Basic Animation Transition ###
+
+**In this video (objectives)...**
+
+1. Import and slice up a new animation for our character.
+2. Use Grid by Cell size to slice up.
+3. Add new animation and animation transition and fix any issues we might find.
+
+
+**After watching (learning outcomes)...**
+
+Transition from one animation state to another once the first animation is finished playing.
