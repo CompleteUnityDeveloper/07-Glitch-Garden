@@ -162,3 +162,17 @@ Animate an object using Keyframe animation.
 **After watching (learning outcomes)...**
 
 Move Game Objects using transform.Translate.
+
+
+### 12 Spawn Attackers Using Coroutine ###
+
+**In this video (objectives)...**
+
+1. Instantiate attackers at intervals within a random range.
+2. Use a coroutine to continue spawning attackers.
+3. Create a spawning bool that allows us to stop the attacker spawning when needed.
+
+
+**After watching (learning outcomes)...**
+
+Spawn attackers along their lanes using coroutine.
