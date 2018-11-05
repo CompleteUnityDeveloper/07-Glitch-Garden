@@ -971,6 +971,7 @@ GameObject:
   - component: {fileID: 1485387857}
   - component: {fileID: 1485387856}
   - component: {fileID: 1485387855}
+  - component: {fileID: 1485387858}
   m_Layer: 0
   m_Name: Lizard
   m_TagString: Untagged
@@ -1055,6 +1056,18 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 3
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1485387858
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1485387854}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9b951f3328340f249beb4077770b92a4, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  walkSpeed: 0
 --- !u!1 &1604513427
 GameObject:
   m_ObjectHideFlags: 0

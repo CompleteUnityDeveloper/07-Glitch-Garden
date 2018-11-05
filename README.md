@@ -149,3 +149,16 @@ Transition from one animation state to another once the first animation is finis
 **After watching (learning outcomes)...**
 
 Animate an object using Keyframe animation.
+
+
+### 11 Move Using transform.Translate ###
+
+**In this video (objectives)...**
+
+1. Create attacker.cs script.
+2. Use transform.Translate and the concept of "left" to move in the -x direction.
+
+
+**After watching (learning outcomes)...**
+
+Move Game Objects using transform.Translate.
