@@ -176,3 +176,16 @@ Move Game Objects using transform.Translate.
 **After watching (learning outcomes)...**
 
 Spawn attackers along their lanes using coroutine.
+
+
+### 13 Adding Animation Events ###
+
+**In this video (objectives)...**
+
+1. Add animation event to our timeline.
+2. Create a public method that is called when the timeline reaches that animation event.
+
+
+**After watching (learning outcomes)...**
+
+Call methods in our code by adding animation events to our animation timeline.
