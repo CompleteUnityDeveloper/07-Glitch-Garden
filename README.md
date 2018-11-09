@@ -189,3 +189,16 @@ Spawn attackers along their lanes using coroutine.
 **After watching (learning outcomes)...**
 
 Call methods in our code by adding animation events to our animation timeline.
+
+
+### 14 Set Up A Defender Prefab ###
+
+**In this video (objectives)...**
+
+1. Slice up sprite sheets, create multiple animation, create animator controller.
+2. Add an animation event and some visual flare for when we want the character to shoot.
+
+
+**After watching (learning outcomes)...**
+
+Set up the animation, animator controller and event for a defender.
