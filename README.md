@@ -202,3 +202,17 @@ Call methods in our code by adding animation events to our animation timeline.
 **After watching (learning outcomes)...**
 
 Set up the animation, animator controller and event for a defender.
+
+
+### 15 Instantiate From Gun Position ###
+
+**In this video (objectives)...**
+
+1. Clarify why we see different function options for animation events.
+2. Create a method for instantiating a project.
+3. Create a gun child and instantiate from the gun position.
+
+
+**After watching (learning outcomes)...**
+
+Instantiate a projectile from a child object such as a gun.
