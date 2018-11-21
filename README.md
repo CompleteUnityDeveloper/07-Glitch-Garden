@@ -216,3 +216,15 @@ Set up the animation, animator controller and event for a defender.
 **After watching (learning outcomes)...**
 
 Instantiate a projectile from a child object such as a gun.
+
+
+### 16 Make Projectile Move ###
+
+**In this video (objectives)...**
+
+1. Compare animating projectile using animator versus code.
+
+
+**After watching (learning outcomes)...**
+
+Animate projectile using both animator and code.
