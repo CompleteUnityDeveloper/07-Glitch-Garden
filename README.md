@@ -228,3 +228,15 @@ Instantiate a projectile from a child object such as a gun.
 **After watching (learning outcomes)...**
 
 Animate projectile using both animator and code.
+
+
+### 17 Health & Hurting Attackers ###
+
+**In this video (objectives)...**
+
+1. Create a list of requirements for our health / damage system.
+
+
+**After watching (learning outcomes)...**
+
+Confident in auditing your project to figure out requirements for our health system.
