@@ -22,6 +22,9 @@ GameObject:
   - component: {fileID: 212901175834010880}
   - component: {fileID: 95722708508413104}
   - component: {fileID: 114524238380976926}
+  - component: {fileID: 61335275718071282}
+  - component: {fileID: 50497183816363688}
+  - component: {fileID: 114836195079931478}
   m_Layer: 0
   m_Name: Lizard
   m_TagString: Untagged
@@ -36,12 +39,57 @@ Transform:
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 1098104420820142}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 5.56, y: 1.26, z: 0}
+  m_LocalPosition: {x: 5.5203347, y: 2.3071873, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!50 &50497183816363688
+Rigidbody2D:
+  serializedVersion: 4
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1098104420820142}
+  m_BodyType: 1
+  m_Simulated: 1
+  m_UseFullKinematicContacts: 0
+  m_UseAutoMass: 0
+  m_Mass: 1
+  m_LinearDrag: 0
+  m_AngularDrag: 0.05
+  m_GravityScale: 1
+  m_Material: {fileID: 0}
+  m_Interpolate: 0
+  m_SleepingMode: 1
+  m_CollisionDetection: 0
+  m_Constraints: 0
+--- !u!61 &61335275718071282
+BoxCollider2D:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1098104420820142}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: -0.55237913, y: -0.266953}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0.5, y: 0.5}
+    oldSize: {x: 2.51, y: 1.86}
+    newSize: {x: 0.81, y: 0.84}
+    adaptiveTilingThreshold: 0.5
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  serializedVersion: 2
+  m_Size: {x: 0.5311489, y: 0.69511557}
+  m_EdgeRadius: 0
 --- !u!95 &95722708508413104
 Animator:
   serializedVersion: 3
@@ -71,7 +119,18 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9b951f3328340f249beb4077770b92a4, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkSpeed: 1
+--- !u!114 &114836195079931478
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1098104420820142}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 792b89e5048a92b4baefa88176fc4f35, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  health: 100
 --- !u!212 &212901175834010880
 SpriteRenderer:
   m_ObjectHideFlags: 1

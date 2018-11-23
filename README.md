@@ -240,3 +240,17 @@ Animate projectile using both animator and code.
 **After watching (learning outcomes)...**
 
 Confident in auditing your project to figure out requirements for our health system.
+
+
+### 18 Implementing Health & Damage ###
+
+**In this video (objectives)...**
+
+1. Create a trigger event with correct collider and rigid bodies.
+2. Decrease health by calling a public method of DealDamage() and passing in damage amount.
+3. Snuff out the attacker when its health reaches zero.
+
+
+**After watching (learning outcomes)...**
+
+Implement system where projectiles do damage and kill attackers.
