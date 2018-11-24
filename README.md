@@ -254,3 +254,16 @@ Confident in auditing your project to figure out requirements for our health sys
 **After watching (learning outcomes)...**
 
 Implement system where projectiles do damage and kill attackers.
+
+
+### 19 Tidy Up & Death FX ###
+
+**In this video (objectives)...**
+
+1. Destroy projectiles when they hit targets.
+2. Instantiate particle effect when attacker is destroyed. Then destroy the particle effect itself.
+
+
+**After watching (learning outcomes)...**
+
+Instantiate and then destroy particle effects.
