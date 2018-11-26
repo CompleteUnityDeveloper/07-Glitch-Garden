@@ -280,3 +280,16 @@ Instantiate and then destroy particle effects.
 **After watching (learning outcomes)...**
 
 Instantiate a defender at the (0,0) point when the player clicks the mouse.
+
+
+### 21 Spawn At Mouse Position ###
+
+**In this video (objectives)...**
+
+1. Use ScreenToWorldPoint to identify where the mouse is clicked in relation to our play space.
+2. Investigate the relationship between methods with return types and methods with arguments.
+
+
+**After watching (learning outcomes)...**
+
+Instantiate a defender where the mouse pointer is currently located.
