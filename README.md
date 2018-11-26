@@ -293,3 +293,16 @@ Instantiate a defender at the (0,0) point when the player clicks the mouse.
 **After watching (learning outcomes)...**
 
 Instantiate a defender where the mouse pointer is currently located.
+
+
+### 22 Snap Defenders To Grid ###
+
+**In this video (objectives)...**
+
+1. Use RoundToInt() to round our decimal places to whole numbers.
+2. Create a SnapToGrid() method which can then be used to return our final position for defenders.
+
+
+**After watching (learning outcomes)...**
+
+Snap our defenders to the grid using RoundToInt().
