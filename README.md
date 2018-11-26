@@ -306,3 +306,17 @@ Instantiate a defender where the mouse pointer is currently located.
 **After watching (learning outcomes)...**
 
 Snap our defenders to the grid using RoundToInt().
+
+
+### 23 Create Defender Selection UI ###
+
+**In this video (objectives)...**
+
+1. Create background and icons for our buttons.
+2. Implement a mouse over event that changes a button from greyed out to white.
+3. Use a foreach loop to cycle through all other buttons to make them black.
+
+
+**After watching (learning outcomes)...**
+
+Implement a button selection UI.
