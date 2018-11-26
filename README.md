@@ -267,3 +267,16 @@ Implement system where projectiles do damage and kill attackers.
 **After watching (learning outcomes)...**
 
 Instantiate and then destroy particle effects.
+
+
+### 20 Click To Spawn Defenders ###
+
+**In this video (objectives)...**
+
+1. Add a core game area with collider and SpawnDefender script.
+2. Instantiate a defender when the mouse is clicked.
+
+
+**After watching (learning outcomes)...**
+
+Instantiate a defender at the (0,0) point when the player clicks the mouse.
