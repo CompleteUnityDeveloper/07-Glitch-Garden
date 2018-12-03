@@ -320,3 +320,16 @@ Snap our defenders to the grid using RoundToInt().
 **After watching (learning outcomes)...**
 
 Implement a button selection UI.
+
+
+### 24 Set & Place Selected Defender ###
+
+**In this video (objectives)...**
+
+1. Assign a defender prefab to each button click.
+2. Pass in the button's defender prefab by using a public method on DefenderSpawner.
+
+
+**After watching (learning outcomes)...**
+
+Place the appropriate defender prefab in the world when the corresponding button is clicked.
