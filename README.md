@@ -333,3 +333,17 @@ Implement a button selection UI.
 **After watching (learning outcomes)...**
 
 Place the appropriate defender prefab in the world when the corresponding button is clicked.
+
+
+### 25 Start Our Resource System ###
+
+**In this video (objectives)...**
+
+1. Create StarDisplay.cs and create a variable to store current resources.
+2. Use ToString() to convert our integer into a string to display in our text field on screen.
+3. Create public methods for future use that will allow us to increase and decrease stars.
+
+
+**After watching (learning outcomes)...**
+
+Create a resource system for adding and spending resources.
