@@ -360,3 +360,16 @@ Create a resource system for adding and spending resources.
 **After watching (learning outcomes)...**
 
 Be clear on how the parent-child relationship impacts animation.
+
+
+### 27 Completing Animation Challenge ###
+
+**In this video (objectives)...**
+
+1. Set up Lizard and Cactus with proper parent-child relationship.
+2. Adding Animator, animation clips, animation events.
+
+
+**After watching (learning outcomes)...**
+
+Feeling confident with how the animation system works.
