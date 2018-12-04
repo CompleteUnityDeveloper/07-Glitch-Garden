@@ -347,3 +347,16 @@ Place the appropriate defender prefab in the world when the corresponding button
 **After watching (learning outcomes)...**
 
 Create a resource system for adding and spending resources.
+
+
+### 26 Parent, Child & Animation ###
+
+**In this video (objectives)...**
+
+1. Explore the relationship between parent game objects, their children and how that impacts animation.
+2. Set ourselves the challenge to tidy up our animations.
+
+
+**After watching (learning outcomes)...**
+
+Be clear on how the parent-child relationship impacts animation.
