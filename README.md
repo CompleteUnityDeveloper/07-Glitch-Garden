@@ -373,3 +373,16 @@ Be clear on how the parent-child relationship impacts animation.
 **After watching (learning outcomes)...**
 
 Feeling confident with how the animation system works.
+
+
+### 28 Add Resources As Anim Event ###
+
+**In this video (objectives)...**
+
+1. Add anim event which calls a public method which also calls another public method.
+2. Create a nifty animation to visual the resource being added.
+
+
+**After watching (learning outcomes)...**
+
+Call a public method with our animation event which adds resources.
