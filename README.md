@@ -386,3 +386,16 @@ Feeling confident with how the animation system works.
 **After watching (learning outcomes)...**
 
 Call a public method with our animation event which adds resources.
+
+
+### 29 Defenders Costing Resources ###
+
+**In this video (objectives)...**
+
+1. Create a method that returns a bool for whether we have enough resources to buy a defender.
+2. On mouse click, spawn a defender and also reduce our total resources by the cost of the defender.
+
+
+**After watching (learning outcomes)...**
+
+Tie everything together so that clicking to place defenders costs resources.
