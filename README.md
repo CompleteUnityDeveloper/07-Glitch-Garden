@@ -399,3 +399,15 @@ Call a public method with our animation event which adds resources.
 **After watching (learning outcomes)...**
 
 Tie everything together so that clicking to place defenders costs resources.
+
+
+### 30 Searching For Animation Events ###
+
+**In this video (objectives)...**
+
+1. Locate where animation events are calling specific functions using the Find and Replace tool in Visual Studio.
+
+
+**After watching (learning outcomes)...**
+
+Easily find where functions are being called in animation events.
