@@ -411,3 +411,16 @@ Tie everything together so that clicking to place defenders costs resources.
 **After watching (learning outcomes)...**
 
 Easily find where functions are being called in animation events.
+
+
+### 31 Instantiate As Child ###
+
+**In this video (objectives)...**
+
+1. Instatiate our attacker as an Attacker game object.
+2. Change the instantiated object's parent to be the object which spawned it.
+
+
+**After watching (learning outcomes)...**
+
+Change the parent of an instantiated object.
