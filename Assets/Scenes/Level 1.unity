@@ -129,8 +129,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 95ce0bbf1a771704c89cf6b36eb43bc2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  minSpawnDelay: 1
-  maxSpawnDelay: 5
+  minSpawnDelay: 10
+  maxSpawnDelay: 10
   attackerPrefab: {fileID: 114524238380976926, guid: 726ec1aa9b43ad64cbd9e4943c963388,
     type: 2}
 --- !u!4 &12710567 stripped
@@ -541,8 +541,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 95ce0bbf1a771704c89cf6b36eb43bc2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  minSpawnDelay: 1
-  maxSpawnDelay: 5
+  minSpawnDelay: 10
+  maxSpawnDelay: 10
   attackerPrefab: {fileID: 114524238380976926, guid: 726ec1aa9b43ad64cbd9e4943c963388,
     type: 2}
 --- !u!4 &557978800 stripped
@@ -654,8 +654,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 95ce0bbf1a771704c89cf6b36eb43bc2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  minSpawnDelay: 7
-  maxSpawnDelay: 7
+  minSpawnDelay: 10
+  maxSpawnDelay: 10
   attackerPrefab: {fileID: 114524238380976926, guid: 726ec1aa9b43ad64cbd9e4943c963388,
     type: 2}
 --- !u!4 &827130541 stripped
@@ -679,8 +679,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 95ce0bbf1a771704c89cf6b36eb43bc2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  minSpawnDelay: 1
-  maxSpawnDelay: 5
+  minSpawnDelay: 10
+  maxSpawnDelay: 10
   attackerPrefab: {fileID: 114524238380976926, guid: 726ec1aa9b43ad64cbd9e4943c963388,
     type: 2}
 --- !u!4 &848811184 stripped
@@ -839,7 +839,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 61159e478078eb44c81db8f99f8b2b31, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  stars: 100
+  stars: 1000
 --- !u!1 &1472841697 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 1499327403662784, guid: 1e7fdd6db50f6b54dbf976bc096cb9ce,
@@ -856,8 +856,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 95ce0bbf1a771704c89cf6b36eb43bc2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  minSpawnDelay: 1
-  maxSpawnDelay: 5
+  minSpawnDelay: 10
+  maxSpawnDelay: 10
   attackerPrefab: {fileID: 114524238380976926, guid: 726ec1aa9b43ad64cbd9e4943c963388,
     type: 2}
 --- !u!4 &1472841699 stripped

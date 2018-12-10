@@ -437,3 +437,17 @@ Change the parent of an instantiated object.
 **After watching (learning outcomes)...**
 
 Detect if an attacker is spawned by looking at child count of spawner in our lane.
+
+
+### 33 Change Animation State ###
+
+**In this video (objectives)...**
+
+1. Set up our animator controller with idle and attack animations.
+2. Create an animation parameter that we can use as a transition condition.
+3. Change the animation state in our shooter script.
+
+
+**After watching (learning outcomes)...**
+
+Change a character's animation state in code.
