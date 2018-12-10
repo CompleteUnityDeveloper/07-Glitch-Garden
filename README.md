@@ -424,3 +424,16 @@ Easily find where functions are being called in animation events.
 **After watching (learning outcomes)...**
 
 Change the parent of an instantiated object.
+
+
+### 32 Attacker In My Lane ###
+
+**In this video (objectives)...**
+
+1. Create an array to store each of the Attacker Spawners.
+2. Create a mechanism to shoot or not shoot based upon whether we have an attacker in our lane.
+
+
+**After watching (learning outcomes)...**
+
+Detect if an attacker is spawned by looking at child count of spawner in our lane.

@@ -20,7 +20,6 @@ GameObject:
   m_Component:
   - component: {fileID: 4541465621644300}
   - component: {fileID: 212140794878316252}
-  - component: {fileID: 95163112812758286}
   m_Layer: 0
   m_Name: Body
   m_TagString: Untagged
@@ -53,6 +52,7 @@ GameObject:
   - component: {fileID: 4871996068792944}
   - component: {fileID: 114840601588962314}
   - component: {fileID: 114017145368134852}
+  - component: {fileID: 95281168897608468}
   m_Layer: 0
   m_Name: Cactus
   m_TagString: Untagged
@@ -101,13 +101,13 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!95 &95163112812758286
+--- !u!95 &95281168897608468
 Animator:
   serializedVersion: 3
   m_ObjectHideFlags: 1
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInternal: {fileID: 100100000}
-  m_GameObject: {fileID: 1514728555288420}
+  m_GameObject: {fileID: 1791519410597088}
   m_Enabled: 1
   m_Avatar: {fileID: 0}
   m_Controller: {fileID: 9100000, guid: 26cd90feca74ab040af786312900719e, type: 2}
