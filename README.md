@@ -451,3 +451,16 @@ Detect if an attacker is spawned by looking at child count of spawner in our lan
 **After watching (learning outcomes)...**
 
 Change a character's animation state in code.
+
+
+### 34 One Defender Per Square ###
+
+**In this video (objectives)...**
+
+1. Prevent multiple defender placement per square.
+2. Create a new projectile - the axe.
+
+
+**After watching (learning outcomes)...**
+
+Tidy up our project including preventing multiple defenders being placed on one square. And, you know, a few other nifty things.
