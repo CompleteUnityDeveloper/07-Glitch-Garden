@@ -464,3 +464,15 @@ Change a character's animation state in code.
 **After watching (learning outcomes)...**
 
 Tidy up our project including preventing multiple defenders being placed on one square. And, you know, a few other nifty things.
+
+
+### 35 Creating Gnome Defender ###
+
+**In this video (objectives)...**
+
+1. Go through the laundry list of steps to create a gnome character so that it animates, shoots, transitions and can be purchased and placed in the game.
+
+
+**After watching (learning outcomes)...**
+
+Reinforce all the steps in creating a character by creating a new shooting character.
