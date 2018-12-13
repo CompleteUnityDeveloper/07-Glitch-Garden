@@ -476,3 +476,15 @@ Tidy up our project including preventing multiple defenders being placed on one 
 **After watching (learning outcomes)...**
 
 Reinforce all the steps in creating a character by creating a new shooting character.
+
+
+### 36 Creating Gravestone Defender Race ###
+
+**In this video (objectives)...**
+
+1. Create a non-shooting defender that will block attackers.
+
+
+**After watching (learning outcomes)...**
+
+Enjoy all the thrills of racing Rick to create a new defender type.
