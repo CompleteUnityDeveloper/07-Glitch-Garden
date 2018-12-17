@@ -501,3 +501,16 @@ Enjoy all the thrills of racing Rick to create a new defender type.
 **After watching (learning outcomes)...**
 
 Transition our attacker's animation state to attacking when they collide with a defender.
+
+
+### 38 Attackers Striking Target ###
+
+**In this video (objectives)...**
+
+1. Create StrikeCurrentTarget() method that can be called as animation event.
+2. Update animation to continue walking after target is killed.
+
+
+**After watching (learning outcomes)...**
+
+Make our attackers capable of harming defenders.
