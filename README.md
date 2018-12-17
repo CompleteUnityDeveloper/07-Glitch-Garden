@@ -488,3 +488,16 @@ Reinforce all the steps in creating a character by creating a new shooting chara
 **After watching (learning outcomes)...**
 
 Enjoy all the thrills of racing Rick to create a new defender type.
+
+
+### 37 Make Our Attackers Attack ###
+
+**In this video (objectives)...**
+
+1. Create a new attack animation for our Lizard.
+2. Create attack method and collision event to change animation state.
+
+
+**After watching (learning outcomes)...**
+
+Transition our attacker's animation state to attacking when they collide with a defender.
