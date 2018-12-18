@@ -514,3 +514,17 @@ Transition our attacker's animation state to attacking when they collide with a 
 **After watching (learning outcomes)...**
 
 Make our attackers capable of harming defenders.
+
+
+### 39 Fantastic Mr Fox ###
+
+**In this video (objectives)...**
+
+1. Add a fox with all its bits and pieces.
+2. Create a fox component which will have different behaviour to the Lizard.
+3. Create a Gravestone class to give our Gravestone some behaviour.
+
+
+**After watching (learning outcomes)...**
+
+Create a fox with unique Attacker behaviour.
