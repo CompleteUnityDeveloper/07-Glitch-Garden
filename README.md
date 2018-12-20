@@ -540,3 +540,16 @@ Create a fox with unique Attacker behaviour.
 **After watching (learning outcomes)...**
 
 Create, you know, an array... for spawning attackers.
+
+
+### 41 How To Be A Loser  ###
+
+**In this video (objectives)...**
+
+1. Create player lives and a way to decrease those lives when an attack reaches our base.
+2. Create a placeholder You Lose screen which we load when lives reaches zero.
+
+
+**After watching (learning outcomes)...**
+
+Create a system for the player to lose and load a Lose Screen.
