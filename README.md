@@ -553,3 +553,17 @@ Create, you know, an array... for spawning attackers.
 **After watching (learning outcomes)...**
 
 Create a system for the player to lose and load a Lose Screen.
+
+
+### 42 Create A Level Timer  ###
+
+**In this video (objectives)...**
+
+1. Add a slider to represent time left in the level.
+2. Animate the handle for the slider
+3. Print a statement to console when the slider reaches its destination.
+
+
+**After watching (learning outcomes)...**
+
+Create an animated level timer.
