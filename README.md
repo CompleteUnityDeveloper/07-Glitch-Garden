@@ -528,3 +528,15 @@ Make our attackers capable of harming defenders.
 **After watching (learning outcomes)...**
 
 Create a fox with unique Attacker behaviour.
+
+
+### 40 Array For Spawning Attackers  ###
+
+**In this video (objectives)...**
+
+1. Create an array for spawning attackers.
+
+
+**After watching (learning outcomes)...**
+
+Create, you know, an array... for spawning attackers.
