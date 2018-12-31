@@ -567,3 +567,16 @@ Create a system for the player to lose and load a Lose Screen.
 **After watching (learning outcomes)...**
 
 Create an animated level timer.
+
+
+### 43 Create A Level Controller ###
+
+**In this video (objectives)...**
+
+1. Create a mechanism for monitoring when all attackers are destroyed.
+2. Create functionality to take action when there are no attackers and timer has finished.
+
+
+**After watching (learning outcomes)...**
+
+Create a game controller that coordinates the victory conditions for a level.
