@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.SceneManagement;
 
-public class LevelLoad : MonoBehaviour {
+public class LevelLoader : MonoBehaviour {
 
     [SerializeField] int timeToWait = 4;
     int currentSceneIndex;

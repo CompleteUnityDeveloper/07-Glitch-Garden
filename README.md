@@ -580,3 +580,16 @@ Create an animated level timer.
 **After watching (learning outcomes)...**
 
 Create a game controller that coordinates the victory conditions for a level.
+
+
+### 44 A Nicer Win Experience ###
+
+**In this video (objectives)...**
+
+1. Create Level Complete text which we can toggle on and off.
+2. Add SFX and level loading to a coroutine that is triggered when the level is won.
+
+
+**After watching (learning outcomes)...**
+
+Bring joy and happiness to our player when they complete a level.
