@@ -606,3 +606,16 @@ Bring joy and happiness to our player when they complete a level.
 **After watching (learning outcomes)...**
 
 Bring joy and happiness to our player when they crash and burn.
+
+
+### 46 Handling Null Reference Exceptions ###
+
+**In this video (objectives)...**
+
+1. Why is the null reference exception happening.
+2. Fixing our current errors by preventing code from executing if null.
+
+
+**After watching (learning outcomes)...**
+
+Fix our null reference exceptions.
