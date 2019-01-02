@@ -593,3 +593,16 @@ Create a game controller that coordinates the victory conditions for a level.
 **After watching (learning outcomes)...**
 
 Bring joy and happiness to our player when they complete a level.
+
+
+### 45 A Nicer Lose Experience ###
+
+**In this video (objectives)...**
+
+1. Add a You Lose popup which gives the player options to restart the level or quit to main menu.
+2. Stop the game speed when the popup is on screen and return to normal speed when the game resumes.
+
+
+**After watching (learning outcomes)...**
+
+Bring joy and happiness to our player when they crash and burn.

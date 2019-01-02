@@ -113,6 +113,54 @@ NavMeshSettings:
     debug:
       m_Flags: 0
   m_NavMeshData: {fileID: 0}
+--- !u!1001 &255257011
+Prefab:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 4690695124713682, guid: 90ee499aaf94f684f8abba8fa5eed747, type: 2}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4690695124713682, guid: 90ee499aaf94f684f8abba8fa5eed747, type: 2}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4690695124713682, guid: 90ee499aaf94f684f8abba8fa5eed747, type: 2}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4690695124713682, guid: 90ee499aaf94f684f8abba8fa5eed747, type: 2}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4690695124713682, guid: 90ee499aaf94f684f8abba8fa5eed747, type: 2}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4690695124713682, guid: 90ee499aaf94f684f8abba8fa5eed747, type: 2}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4690695124713682, guid: 90ee499aaf94f684f8abba8fa5eed747, type: 2}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4690695124713682, guid: 90ee499aaf94f684f8abba8fa5eed747, type: 2}
+      propertyPath: m_RootOrder
+      value: 3
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 90ee499aaf94f684f8abba8fa5eed747, type: 2}
+  m_IsPrefabAsset: 0
+--- !u!114 &255257012 stripped
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 114429506954160006, guid: 90ee499aaf94f684f8abba8fa5eed747,
+    type: 2}
+  m_PrefabInternal: {fileID: 255257011}
+  m_Script: {fileID: 11500000, guid: 4cfe8c1e90a6a0c44a8a5c53f4d95e94, type: 3}
 --- !u!1 &267737792
 GameObject:
   m_ObjectHideFlags: 0
@@ -304,7 +352,18 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 270197268}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 255257012}
+        m_MethodName: LoadNextScene
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
     m_TypeName: UnityEngine.UI.Button+ButtonClickedEvent, UnityEngine.UI, Version=1.0.0.0,
       Culture=neutral, PublicKeyToken=null
 --- !u!1 &1052452660
@@ -421,7 +480,18 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 1052452662}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 255257012}
+        m_MethodName: QuitGame
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
     m_TypeName: UnityEngine.UI.Button+ButtonClickedEvent, UnityEngine.UI, Version=1.0.0.0,
       Culture=neutral, PublicKeyToken=null
 --- !u!1 &1073619118
