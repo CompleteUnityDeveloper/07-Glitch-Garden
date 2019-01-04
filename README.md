@@ -619,3 +619,15 @@ Bring joy and happiness to our player when they crash and burn.
 **After watching (learning outcomes)...**
 
 Fix our null reference exceptions.
+
+
+### 47 Start Our Options Screen ###
+
+**In this video (objectives)...**
+
+1. Add the images, sliders and buttons for our Options screen.
+
+
+**After watching (learning outcomes)...**
+
+Add the images, sliders and buttons for our Options screen.
