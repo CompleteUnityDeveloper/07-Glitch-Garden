@@ -631,3 +631,16 @@ Fix our null reference exceptions.
 **After watching (learning outcomes)...**
 
 Add the images, sliders and buttons for our Options screen.
+
+
+### 48 PlayerPrefs To Save Settings ###
+
+**In this video (objectives)...**
+
+1. Create a PlayerPrefsController wrapper class to store all of our PlayerPrefs keys.
+2. Create a public setter and public getter method to set our master volume.
+
+
+**After watching (learning outcomes)...**
+
+Create the mechanism for setting and getting volume.
