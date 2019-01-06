@@ -644,3 +644,16 @@ Add the images, sliders and buttons for our Options screen.
 **After watching (learning outcomes)...**
 
 Create the mechanism for setting and getting volume.
+
+
+### 49 Set & Save Music Volume ###
+
+**In this video (objectives)...**
+
+1. Use our PlayerPrefs functionality to connect the volume slider level with the saved volume level.
+2. Change level on the fly, use defaults button and save on exit for volume levels.
+
+
+**After watching (learning outcomes)...**
+
+Use PlayerPrefs and UI sliders to alter and save music volume levels.
