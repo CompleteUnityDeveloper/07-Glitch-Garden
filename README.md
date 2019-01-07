@@ -720,3 +720,17 @@ Tune our defenders and attackers.
 **After watching (learning outcomes)...**
 
 Implement dynamic UI which shows the player the cost of defenders.
+
+
+### 55 Creating Level Progression ###
+
+**In this video (objectives)...**
+
+1. Create a blank level template that we can build our levels upon.
+2. Discuss game design for making interesting progression.
+3. Big challenge - make your game!
+
+
+**After watching (learning outcomes)...**
+
+Understand how to create level progression for our player.
