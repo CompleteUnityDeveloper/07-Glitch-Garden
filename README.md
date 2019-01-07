@@ -657,3 +657,16 @@ Create the mechanism for setting and getting volume.
 **After watching (learning outcomes)...**
 
 Use PlayerPrefs and UI sliders to alter and save music volume levels.
+
+
+### 50 Add Difficulty Levels ###
+
+**In this video (objectives)...**
+
+1. Implement our PlayPrefs setting and getting for difficulty.
+2. Audit our gameplay and design a place where we can change difficulty.
+
+
+**After watching (learning outcomes)...**
+
+Use PlayerPrefs and UI sliders to alter the difficulty of gameplay.
