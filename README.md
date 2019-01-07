@@ -695,3 +695,15 @@ Go bug hunting and smashing!
 **After watching (learning outcomes)...**
 
 Keep our hierarchy tidy by childing game objects when instantiated.
+
+
+### 53 Tuning Our Core Gameplay ###
+
+**In this video (objectives)...**
+
+1. Create a tuning matrix for our defenders and attackers and implement the values back into our build.
+
+
+**After watching (learning outcomes)...**
+
+Tune our defenders and attackers.
