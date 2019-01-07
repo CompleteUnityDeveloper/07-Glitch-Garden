@@ -707,3 +707,16 @@ Keep our hierarchy tidy by childing game objects when instantiated.
 **After watching (learning outcomes)...**
 
 Tune our defenders and attackers.
+
+
+### 54 Add Star Cost To Button ###
+
+**In this video (objectives)...**
+
+1. Add a canvas to our button game object.
+2. Add text, scale it, then use GetComponentInChildren<> to access the text field and update it from the defender prefab.
+
+
+**After watching (learning outcomes)...**
+
+Implement dynamic UI which shows the player the cost of defenders.
