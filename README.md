@@ -670,3 +670,15 @@ Use PlayerPrefs and UI sliders to alter and save music volume levels.
 **After watching (learning outcomes)...**
 
 Use PlayerPrefs and UI sliders to alter the difficulty of gameplay.
+
+
+### 51 Quick Bug Fix - Win Condition ###
+
+**In this video (objectives)...**
+
+1. Problem - if we have our lives set to greater than 1 we have a bug where if we lose some life and then the timer runs out, the game does not finish.
+
+
+**After watching (learning outcomes)...**
+
+Go bug hunting and smashing!
