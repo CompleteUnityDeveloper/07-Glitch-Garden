@@ -682,3 +682,16 @@ Use PlayerPrefs and UI sliders to alter the difficulty of gameplay.
 **After watching (learning outcomes)...**
 
 Go bug hunting and smashing!
+
+
+### 52 Tidy Hierarchy = Tidy Mind ###
+
+**In this video (objectives)...**
+
+1. Parent our defenders and projectiles to a parent object to keep our hierarchy tidy.
+2. Check if game object already exists, if not then create a new one.
+
+
+**After watching (learning outcomes)...**
+
+Keep our hierarchy tidy by childing game objects when instantiated.
