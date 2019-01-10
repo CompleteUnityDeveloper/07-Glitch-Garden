@@ -734,3 +734,16 @@ Implement dynamic UI which shows the player the cost of defenders.
 **After watching (learning outcomes)...**
 
 Understand how to create level progression for our player.
+
+
+### 56 Glitch Garden Wrap Up ###
+
+**In this video (objectives)...**
+
+1. Final words for this section.
+2. Also, repo has been updated with Rick's 5 levels.
+
+
+**After watching (learning outcomes)...**
+
+Wrap up and update of repo with Rick's 5 levels.
