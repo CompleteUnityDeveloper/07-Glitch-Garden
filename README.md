@@ -151,6 +151,19 @@ Transition from one animation state to another once the first animation is finis
 Animate an object using Keyframe animation.
 
 
+### 10b A Note About Animation ###
+
+**In this video (objectives)...**
+
+1. Dont do too much just yet.
+2. Always put scripts and animator at parent level.
+
+
+**After watching (learning outcomes)...**
+
+Making sure that we dont lose too much work when we refactor later on.
+
+
 ### 11 Move Using transform.Translate ###
 
 **In this video (objectives)...**
